@@ -1,0 +1,13 @@
+Materials
+
+Theory:
+Surag Nair, tutorial “A Simple Alpha Zero Tutorial” (web.stanford.edu/~surag/posts/alphazero.html).
+Silver i in., Mastering Chess and Shogi by Self-Play with a General RL Algorithm (arXiv:1712.01815)
+Silver i in., Mastering the game of Go without human knowledge (Nature, 2017).
+Browne i in., A Survey of Monte Carlo Tree Search Methods (IEEE Trans. on Computational Intelligence and AI in Games, 2012).
+Sutton i Barto, Reinforcement Learning: An Introduction.
+
+Implementacions:
+github.com/suragnair/alpha-zero-general 
+github.com/kevaday/alphazero-general
+Wersja peldszus/alpha-zero-general-lib
