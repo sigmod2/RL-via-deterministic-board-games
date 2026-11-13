@@ -1,2 +1,2 @@
 # RL-via-deterministic-board-games
-Reinforcement learning on games like nine men's morris, Reversi and Hnefatafl. At first I will try to focus on the mills game (nine men's morris) and optionally expand on other games later. This project description is only temporary.
+Reinforcement learning on games like nine men's morris, Reversi and Hnefatafl. At first I will try to focus on the mills game (nine men's morris) and optionally expand on other games later.The "Games" are written in c++, binded to python by pybind11 in order to train the agent using PyTorch. This project description is only temporary and I'll describe this project once it'll be finished. 
